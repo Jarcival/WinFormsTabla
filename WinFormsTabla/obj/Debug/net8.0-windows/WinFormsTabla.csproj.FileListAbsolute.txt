@@ -1,0 +1,16 @@
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.exe
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.deps.json
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.runtimeconfig.json
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\bin\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.Form1.resources
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.GenerateResource.cache
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfoInputs.cache
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.AssemblyInfo.cs
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.csproj.CoreCompileInputs.cache
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.dll
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\refint\WinFormsTabla.dll
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.pdb
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\WinFormsTabla.genruntimeconfig.cache
+C:\Users\buffp\source\repos\WinFormsTabla\WinFormsTabla\obj\Debug\net8.0-windows\ref\WinFormsTabla.dll
